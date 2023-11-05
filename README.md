@@ -1,5 +1,6 @@
 
 # Contabilize+ 
+### Home page
 
 Este projeto é um site desenvolvido em HTML e CSS que apresenta informações sobre uma empresa chamada "Contabilize+". O objetivo do site é fornecer uma visão geral dos serviços e valores da empresa permitindo que os visitantes conheçam melhor a empresa e os benefícios que ela oferece.
 
