@@ -12,7 +12,6 @@ No decorrer desse processo, identifiquei elementos-chave que me inspiraram e gui
 [PDF: 
 Projeto Design Thinking, UX e Metodologias Ágeis](https://www.dropbox.com/s/ny7wkcknzk1tsi7/Projeto%20Design%20Thinking%2C%20UX%20e%20Metodologias%20%C3%81geis.pdf?dl=0).
 
-## Demonstração
-
-![Contabilize](/img/gif.gif)
+## Deploy:
+[Contabilize+] (https://frontend-descomplica-home-page.vercel.app/#)
 
