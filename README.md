@@ -15,3 +15,4 @@ Projeto Design Thinking, UX e Metodologias Ágeis](https://www.dropbox.com/s/ny7
 ## Deploy:
 https://frontend-descomplica-home-page.vercel.app/#
 
+![Preview](/img/preview.png)
